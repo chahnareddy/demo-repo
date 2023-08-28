@@ -1,4 +1,0 @@
-
-its file2 of master branch
-its file2 of b1 branch
-
