@@ -1,1 +1,3 @@
 msg: Good Day!!!
+server:
+   port: 9096
